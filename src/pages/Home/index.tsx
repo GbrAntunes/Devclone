@@ -42,7 +42,7 @@ const Home: React.FC = () => {
       <main>
 
         <article>
-          <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--U9m1Czht--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/onvm67cqitxnrtfxq3go.jpg" alt=""/>
+          <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--U9m1Czht--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/onvm67cqitxnrtfxq3go.jpg" alt="" />
           <div className="article-wrapper">
             <header>
               <a href="#" className="user-pic">
@@ -64,12 +64,12 @@ const Home: React.FC = () => {
               <footer>
                 <div className="details">
                   <a href="#">
-                    <RiHeart2Line size={23} />
-                    <span>33</span>
+                    <RiHeart2Line size={21} />
+                    <span>33 reactions</span>
                   </a>
                   <a href="#">
-                    <RiChat1Line size={23} />
-                    <span>6</span>
+                    <RiChat1Line size={21} />
+                    <span>6 comments</span>
                   </a>
                 </div>
                 <div className="save">
@@ -102,12 +102,12 @@ const Home: React.FC = () => {
               <footer>
                 <div className="details">
                   <a href="#">
-                    <RiHeart2Line size={23} />
-                    <span>33</span>
+                    <RiHeart2Line size={21} />
+                    <span>33 reactions</span>
                   </a>
                   <a href="#">
-                    <RiChat1Line size={23} />
-                    <span>6</span>
+                    <RiChat1Line size={21} />
+                    <span>6 comments</span>
                   </a>
                 </div>
                 <div className="save">
@@ -140,12 +140,12 @@ const Home: React.FC = () => {
               <footer>
                 <div className="details">
                   <a href="#">
-                    <RiHeart2Line size={23} />
-                    <span>33</span>
+                    <RiHeart2Line size={21} />
+                    <span>33 reactions</span>
                   </a>
                   <a href="#">
-                    <RiChat1Line size={23} />
-                    <span>6</span>
+                    <RiChat1Line size={21} />
+                    <span>6 comments</span>
                   </a>
                 </div>
                 <div className="save">

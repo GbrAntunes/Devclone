@@ -105,7 +105,6 @@ export const Container = styled.div`
         display: flex;
         margin-bottom: 8px;
   
-  
         & > div > small {
           color: #64707d;
           font-size: 0.75rem;
@@ -175,8 +174,9 @@ export const Container = styled.div`
           display: flex;
           align-items: center;
           text-decoration: none;
-          color: #64707d;
-          font-weight: normal;
+          font-size: 14px;
+          color: #363d44;
+          font-weight: 100;
 
           svg {
             margin-right: 4px;
@@ -198,7 +198,7 @@ export const Container = styled.div`
           border: 0px solid;
           border-radius: 5px;
           background: #d2d6db;
-          color: #F9FAFA;
+          color: #363d44;
           font-weight: normal;
           font-size: 0.875rem;
           padding: 4px 12px 4px 12px;
